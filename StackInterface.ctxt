@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=StackInterface
+comment0.text=\r\n\ StackInterface.java\ -\ implementation\ of\ Stack\ ADT\r\n
+comment1.params=newEntry
+comment1.target=void\ push(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ pop()
+comment3.params=
+comment3.target=java.lang.Object\ peek()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=
+comment5.target=void\ clear()
+numComments=6
